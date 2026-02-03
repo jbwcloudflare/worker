@@ -1,1 +1,2 @@
-echo "Branch~: $WORKERS_CI_BRANCH"
+echo "Checkout Branch~: $WORKERS_CI_BRANCH"
+git checkout -b $WORKERS_CI_BRANCH

@@ -16,5 +16,6 @@
     "url": "https://github.com/jbwcloudflare/worker/issues"
   },
   "homepage": "https://github.com/jbwcloudflare/worker#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {"wrangler": "file:./wrangler.tgz"}
 }
