@@ -1,0 +1,1 @@
+echo "Branch: $WORKERS_CI_BRANCH"
