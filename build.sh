@@ -1,1 +1,1 @@
-npx wrangler preview
+echo Running a $ENVIRONMENT build
